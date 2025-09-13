@@ -1,6 +1,5 @@
 /**
  * Hook function to find textures in GTA SA (32-64-bit version)
- * ฟังก์ชันฮุคสำหรับค้นหาเท็กซ์เจอร์ใน GTA SA (เวอร์ชัน 32-64-bit)
  */
 
 RwTexture* (*CTxdStore__TxdStoreFindCB)(const char *szTexture);
