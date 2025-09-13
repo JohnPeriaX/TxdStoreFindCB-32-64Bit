@@ -1,1 +1,1 @@
-# TxdStoreFindCB-64Bit
+# TxdStoreFindCB-32-64Bit
